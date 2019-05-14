@@ -1,0 +1,1 @@
+A simple HTML responsive template for food restaurant without boostrap
